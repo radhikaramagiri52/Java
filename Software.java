@@ -13,7 +13,7 @@ public class Software {
 	}
 
 	String getName() {
-		return name;
+		return name; 
 	}
 
 	List<Software> getDependencies() {
